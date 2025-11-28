@@ -58,7 +58,7 @@ Este projeto permite baixar vídeos do **YouTube**, **TikTok**, **Instagram** e 
 ### Passo 1: Clone o Repositório
 
 ```bash
-https://github.com/whesley264-oss/TiraDoAr.git
+https://github.com/whesley264-oss/baixador-videos.git
 cd baixador-videos
 ```
 
@@ -229,7 +229,7 @@ Contribuições são **muito bem-vindas**!
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ para facilitar o download de vídeos.
+Desenvolvido por Whesley com ❤️ para facilitar o download de vídeos.
 
 ---
 
@@ -237,7 +237,7 @@ Desenvolvido com ❤️ para facilitar o download de vídeos.
 
 Encontrou algum problema? Tem alguma dúvida?
 
-- 📧 Abra uma [Issue](https://github.com/seu-usuario/baixador-videos/issues)
+- 📧 Abra uma [Issue](https://github.com/whesley264-oss/baixador-videos/issues)
 - 💬 Entre em contato através das discussões do projeto
 
 ---
