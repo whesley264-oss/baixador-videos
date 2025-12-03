@@ -58,7 +58,7 @@ Este projeto permite baixar vídeos do **YouTube**, **TikTok**, **Instagram** e 
 ### Passo 1: Clone o Repositório
 
 ```bash
-https://github.com/whesley264-oss/baixador-videos.git
+git clone https://github.com/whesley264-oss/baixador-videos.git
 cd baixador-videos
 ```
 
